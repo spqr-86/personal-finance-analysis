@@ -1,0 +1,530 @@
+Date,Name / Description,Expense/Income,Amount (EUR),Transaction vs category,Transaction,Category
+2022-01-01,pharmacy,Expense,45.64,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-01-02,gift,Income,1409.07,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-01-03,electronics,Expense,57.54,5. Electronics - Technology,electronics,Technology
+2022-01-05,rent,Income,1117.5,6. Rent - Housing,rent,Housing
+2022-01-07,supermarket,Expense,1885.56,7. Supermarket - Groceries,supermarket,Groceries
+2022-01-07,public transport,Expense,117.84,8. Public Transport - Travel,public transport,Travel
+2022-01-08,public transport,Expense,1148.68,8. Public Transport - Travel,public transport,Travel
+2022-01-08,public transport,Expense,42.86,8. Public Transport - Travel,public transport,Travel
+2022-01-11,pharmacy,Expense,2532.41,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-01-14,audible uk adblco/pymt gbr,Expense,166.0,9. Audible Uk AdblCo/Pymt Gbr - Entertainment,audible uk adblco/pymt gbr,Entertainment
+2022-01-15,classpass* monthly,Expense,89.47,10. Classpass* Monthly - Fitness,classpass* monthly,Fitness
+2022-01-16,amazon lux,Expense,70.05,11. Amazon Lux - Online Shopping,amazon lux,Online Shopping
+2022-01-18,bookstore,Expense,1425.75,12. Bookstore - Books,bookstore,Books
+2022-01-22,online shopping,Expense,51.73,13. Online Shopping - Retail,online shopping,Retail
+2022-01-22,public transport,Expense,1977.3,8. Public Transport - Travel,public transport,Travel
+2022-01-24,coffee shop,Expense,1588.72,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-01-26,coffee shop,Expense,2927.34,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-01-30,gift,Expense,79.98,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-01-30,utility bill,Expense,196.08,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-02-01,coffee shop,Expense,87.58,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-02-04,bookstore,Expense,174.79,12. Bookstore - Books,bookstore,Books
+2022-02-05,pharmacy,Expense,2041.68,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-02-06,pet supplies,Expense,1519.44,16. Pet Supplies - Pets,pet supplies,Pets
+2022-02-08,coffee shop,Expense,1859.39,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-02-09,public transport,Expense,101.63,8. Public Transport - Travel,public transport,Travel
+2022-02-10,online shopping,Expense,179.86,13. Online Shopping - Retail,online shopping,Retail
+2022-02-10,online shopping,Expense,27.15,13. Online Shopping - Retail,online shopping,Retail
+2022-02-11,clothing store,Expense,71.6,17. Clothing Store - Fashion,clothing store,Fashion
+2022-02-13,utility bill,Expense,60.64,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-02-15,electronics,Expense,181.62,5. Electronics - Technology,electronics,Technology
+2022-02-17,rent,Expense,1117.5,6. Rent - Housing,rent,Housing
+2022-02-17,online shopping,Expense,1938.94,13. Online Shopping - Retail,online shopping,Retail
+2022-02-18,cinema,Expense,165.54,18. Cinema - Entertainment,cinema,Entertainment
+2022-02-18,clothing store,Expense,2993.34,17. Clothing Store - Fashion,clothing store,Fashion
+2022-02-20,utility bill,Expense,2703.81,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-02-21,salary,Income,1222.51,19. Salary - Income,salary,Income
+2022-02-23,freelance work,Expense,51.22,20. Freelance Work - Work,freelance work,Work
+2022-02-24,online shopping,Expense,126.98,13. Online Shopping - Retail,online shopping,Retail
+2022-02-25,gym membership,Expense,39.75,21. Gym Membership - Fitness,gym membership,Fitness
+2022-02-27,electronics,Expense,1991.1,5. Electronics - Technology,electronics,Technology
+2022-02-28,pet supplies,Expense,31.11,16. Pet Supplies - Pets,pet supplies,Pets
+2022-02-28,coffee shop,Expense,137.58,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-02-28,gift,Income,2178.94,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-03-02,coffee shop,Expense,1645.66,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-03-03,cinema,Expense,172.93,18. Cinema - Entertainment,cinema,Entertainment
+2022-03-04,coffee shop,Expense,2115.77,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-03-04,cinema,Expense,29.68,18. Cinema - Entertainment,cinema,Entertainment
+2022-03-05,pharmacy,Expense,1255.94,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-03-10,pharmacy,Expense,2911.38,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-03-11,utility bill,Expense,1598.17,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-03-11,gym membership,Expense,2456.66,21. Gym Membership - Fitness,gym membership,Fitness
+2022-03-13,gym membership,Expense,1297.7,21. Gym Membership - Fitness,gym membership,Fitness
+2022-03-13,electronics,Expense,54.98,5. Electronics - Technology,electronics,Technology
+2022-03-15,online shopping,Expense,151.18,13. Online Shopping - Retail,online shopping,Retail
+2022-03-16,pet supplies,Expense,15.97,16. Pet Supplies - Pets,pet supplies,Pets
+2022-03-17,cinema,Expense,88.3,18. Cinema - Entertainment,cinema,Entertainment
+2022-03-17,gym membership,Expense,28.18,21. Gym Membership - Fitness,gym membership,Fitness
+2022-03-18,rent,Expense,188.9,6. Rent - Housing,rent,Housing
+2022-03-19,coffee shop,Expense,90.39,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-03-20,rent,Expense,105.18,6. Rent - Housing,rent,Housing
+2022-03-23,rent,Expense,168.96,6. Rent - Housing,rent,Housing
+2022-03-26,utility bill,Expense,2126.01,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-03-27,pharmacy,Expense,98.11,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-03-30,utility bill,Expense,2249.22,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-04-04,public transport,Expense,6.1,8. Public Transport - Travel,public transport,Travel
+2022-04-04,electronics,Expense,2748.3,5. Electronics - Technology,electronics,Technology
+2022-04-04,pet supplies,Expense,2863.65,16. Pet Supplies - Pets,pet supplies,Pets
+2022-04-05,gym membership,Expense,1528.43,21. Gym Membership - Fitness,gym membership,Fitness
+2022-04-09,utility bill,Expense,94.27,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-04-11,salary,Expense,112.03,19. Salary - Income,salary,Income
+2022-04-13,pharmacy,Expense,2767.06,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-04-13,gift,Expense,194.65,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-04-17,clothing store,Expense,64.9,17. Clothing Store - Fashion,clothing store,Fashion
+2022-04-17,rent,Expense,1131.63,6. Rent - Housing,rent,Housing
+2022-04-21,restaurant,Expense,71.81,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-04-21,pet supplies,Expense,74.76,16. Pet Supplies - Pets,pet supplies,Pets
+2022-04-25,utility bill,Expense,2367.16,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-04-29,public transport,Expense,102.96,8. Public Transport - Travel,public transport,Travel
+2022-04-29,public transport,Expense,196.71,8. Public Transport - Travel,public transport,Travel
+2022-04-30,utility bill,Expense,1393.45,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-05-01,restaurant,Expense,168.36,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-05-02,utility bill,Expense,63.72,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-05-04,rent,Expense,2909.71,6. Rent - Housing,rent,Housing
+2022-05-04,electronics,Expense,30.19,5. Electronics - Technology,electronics,Technology
+2022-05-04,rent,Expense,1749.47,6. Rent - Housing,rent,Housing
+2022-05-05,rent,Expense,130.23,6. Rent - Housing,rent,Housing
+2022-05-05,gift,Income,1158.48,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-05-10,freelance work,Expense,113.86,20. Freelance Work - Work,freelance work,Work
+2022-05-13,rent,Expense,2577.38,6. Rent - Housing,rent,Housing
+2022-05-13,gym membership,Expense,127.17,21. Gym Membership - Fitness,gym membership,Fitness
+2022-05-15,pet supplies,Expense,123.36,16. Pet Supplies - Pets,pet supplies,Pets
+2022-05-16,restaurant,Expense,30.37,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-05-20,gym membership,Expense,1315.56,21. Gym Membership - Fitness,gym membership,Fitness
+2022-05-21,gym membership,Expense,70.14,21. Gym Membership - Fitness,gym membership,Fitness
+2022-05-26,public transport,Expense,1596.76,8. Public Transport - Travel,public transport,Travel
+2022-05-26,public transport,Expense,10.49,8. Public Transport - Travel,public transport,Travel
+2022-05-27,rent,Expense,121.4,6. Rent - Housing,rent,Housing
+2022-05-30,cinema,Expense,2047.02,18. Cinema - Entertainment,cinema,Entertainment
+2022-05-30,clothing store,Expense,2413.12,17. Clothing Store - Fashion,clothing store,Fashion
+2022-06-02,coffee shop,Expense,193.4,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-06-03,freelance work,Expense,2881.08,20. Freelance Work - Work,freelance work,Work
+2022-06-03,bookstore,Expense,31.11,12. Bookstore - Books,bookstore,Books
+2022-06-04,pet supplies,Expense,117.88,16. Pet Supplies - Pets,pet supplies,Pets
+2022-06-04,supermarket,Expense,2512.43,7. Supermarket - Groceries,supermarket,Groceries
+2022-06-05,pharmacy,Expense,149.07,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-06-06,salary,Income,1838.22,19. Salary - Income,salary,Income
+2022-06-06,bookstore,Expense,2532.01,12. Bookstore - Books,bookstore,Books
+2022-06-07,pet supplies,Expense,151.82,16. Pet Supplies - Pets,pet supplies,Pets
+2022-06-08,restaurant,Expense,1374.49,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-06-08,cinema,Expense,2527.77,18. Cinema - Entertainment,cinema,Entertainment
+2022-06-10,gift,Income,1824.84,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-06-12,rent,Expense,93.3,6. Rent - Housing,rent,Housing
+2022-06-12,gift,Income,2037.89,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-06-12,freelance work,Income,1826.84,20. Freelance Work - Work,freelance work,Work
+2022-06-13,supermarket,Expense,2231.93,7. Supermarket - Groceries,supermarket,Groceries
+2022-06-19,online shopping,Expense,146.89,13. Online Shopping - Retail,online shopping,Retail
+2022-06-19,pet supplies,Expense,197.68,16. Pet Supplies - Pets,pet supplies,Pets
+2022-06-20,gift,Expense,100.02,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-06-21,electronics,Expense,142.1,5. Electronics - Technology,electronics,Technology
+2022-06-23,gym membership,Expense,81.85,21. Gym Membership - Fitness,gym membership,Fitness
+2022-06-24,bookstore,Expense,2650.81,12. Bookstore - Books,bookstore,Books
+2022-06-27,freelance work,Income,1080.44,20. Freelance Work - Work,freelance work,Work
+2022-06-27,public transport,Expense,1168.67,8. Public Transport - Travel,public transport,Travel
+2022-06-28,cinema,Expense,8.63,18. Cinema - Entertainment,cinema,Entertainment
+2022-06-30,bookstore,Income,1580.44,12. Bookstore - Books,bookstore,Books
+2022-07-03,coffee shop,Expense,181.15,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-07-05,freelance work,Income,1579.09,20. Freelance Work - Work,freelance work,Work
+2022-07-07,restaurant,Expense,2066.7,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-07-10,gift,Income,2644.55,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-07-11,rent,Expense,101.64,6. Rent - Housing,rent,Housing
+2022-07-12,gift,Income,2973.65,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-07-13,freelance work,Expense,179.84,20. Freelance Work - Work,freelance work,Work
+2022-07-14,bookstore,Expense,2086.34,12. Bookstore - Books,bookstore,Books
+2022-07-14,gift,Expense,173.18,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-07-19,clothing store,Expense,70.43,17. Clothing Store - Fashion,clothing store,Fashion
+2022-07-21,public transport,Expense,148.95,8. Public Transport - Travel,public transport,Travel
+2022-07-21,gym membership,Expense,2160.31,21. Gym Membership - Fitness,gym membership,Fitness
+2022-07-22,cinema,Expense,151.41,18. Cinema - Entertainment,cinema,Entertainment
+2022-07-25,utility bill,Expense,1013.52,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-07-27,gift,Expense,149.86,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-07-29,coffee shop,Expense,2650.55,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-07-30,coffee shop,Expense,155.02,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-08-01,rent,Expense,1444.26,6. Rent - Housing,rent,Housing
+2022-08-04,bookstore,Expense,2194.18,12. Bookstore - Books,bookstore,Books
+2022-08-05,public transport,Expense,169.01,8. Public Transport - Travel,public transport,Travel
+2022-08-05,bookstore,Expense,2603.79,12. Bookstore - Books,bookstore,Books
+2022-08-06,salary,Expense,167.47,19. Salary - Income,salary,Income
+2022-08-06,rent,Expense,2123.22,6. Rent - Housing,rent,Housing
+2022-08-07,freelance work,Income,1335.88,20. Freelance Work - Work,freelance work,Work
+2022-08-07,supermarket,Expense,180.82,7. Supermarket - Groceries,supermarket,Groceries
+2022-08-10,gift,Expense,187.26,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-08-12,gym membership,Expense,95.17,21. Gym Membership - Fitness,gym membership,Fitness
+2022-08-13,online shopping,Expense,2041.03,13. Online Shopping - Retail,online shopping,Retail
+2022-08-15,gift,Expense,78.01,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-08-16,rent,Expense,72.52,6. Rent - Housing,rent,Housing
+2022-08-17,public transport,Expense,2026.51,8. Public Transport - Travel,public transport,Travel
+2022-08-17,coffee shop,Expense,83.88,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-08-18,pharmacy,Expense,1747.57,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-08-20,gym membership,Expense,35.09,21. Gym Membership - Fitness,gym membership,Fitness
+2022-08-21,utility bill,Expense,1093.35,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-08-21,pharmacy,Expense,28.9,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-08-22,pet supplies,Expense,2023.43,16. Pet Supplies - Pets,pet supplies,Pets
+2022-08-23,restaurant,Expense,2964.62,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-08-24,pet supplies,Expense,174.59,16. Pet Supplies - Pets,pet supplies,Pets
+2022-08-26,supermarket,Expense,90.96,7. Supermarket - Groceries,supermarket,Groceries
+2022-08-27,supermarket,Expense,1457.23,7. Supermarket - Groceries,supermarket,Groceries
+2022-08-27,pet supplies,Expense,176.33,16. Pet Supplies - Pets,pet supplies,Pets
+2022-08-27,electronics,Expense,120.28,5. Electronics - Technology,electronics,Technology
+2022-08-29,freelance work,Expense,50.54,20. Freelance Work - Work,freelance work,Work
+2022-08-30,bookstore,Expense,109.58,12. Bookstore - Books,bookstore,Books
+2022-09-01,restaurant,Expense,1533.53,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-09-02,restaurant,Expense,1912.49,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-09-05,online shopping,Expense,1293.81,13. Online Shopping - Retail,online shopping,Retail
+2022-09-08,cinema,Expense,102.66,18. Cinema - Entertainment,cinema,Entertainment
+2022-09-08,rent,Expense,181.59,6. Rent - Housing,rent,Housing
+2022-09-08,gift,Income,1409.93,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-09-12,rent,Expense,118.4,6. Rent - Housing,rent,Housing
+2022-09-17,bookstore,Expense,101.92,12. Bookstore - Books,bookstore,Books
+2022-09-17,restaurant,Expense,2309.14,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-09-18,pharmacy,Expense,162.26,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-09-23,salary,Income,2693.85,19. Salary - Income,salary,Income
+2022-09-23,utility bill,Expense,1679.61,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-09-24,freelance work,Income,1913.72,20. Freelance Work - Work,freelance work,Work
+2022-09-25,electronics,Expense,91.05,5. Electronics - Technology,electronics,Technology
+2022-09-26,gift,Income,1004.11,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-09-28,restaurant,Expense,78.26,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-09-29,online shopping,Expense,2062.78,13. Online Shopping - Retail,online shopping,Retail
+2022-09-29,freelance work,Income,1287.54,20. Freelance Work - Work,freelance work,Work
+2022-10-02,coffee shop,Expense,29.48,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-10-04,pet supplies,Expense,93.77,16. Pet Supplies - Pets,pet supplies,Pets
+2022-10-05,coffee shop,Expense,1312.34,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-10-05,restaurant,Expense,1608.22,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-10-06,supermarket,Expense,129.48,7. Supermarket - Groceries,supermarket,Groceries
+2022-10-07,coffee shop,Expense,111.74,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-10-08,pharmacy,Expense,2206.61,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-10-08,freelance work,Expense,25.33,20. Freelance Work - Work,freelance work,Work
+2022-10-11,rent,Expense,2120.94,6. Rent - Housing,rent,Housing
+2022-10-11,electronics,Expense,129.15,5. Electronics - Technology,electronics,Technology
+2022-10-13,restaurant,Expense,121.11,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-10-14,clothing store,Expense,100.9,17. Clothing Store - Fashion,clothing store,Fashion
+2022-10-15,rent,Expense,2224.57,6. Rent - Housing,rent,Housing
+2022-10-16,supermarket,Expense,49.69,7. Supermarket - Groceries,supermarket,Groceries
+2022-10-17,utility bill,Expense,184.79,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-10-17,bookstore,Expense,1568.03,12. Bookstore - Books,bookstore,Books
+2022-10-18,rent,Expense,2147.31,6. Rent - Housing,rent,Housing
+2022-10-21,supermarket,Expense,179.61,7. Supermarket - Groceries,supermarket,Groceries
+2022-10-21,tesco,Expense,38.35,23. Tesco - Groceries,tesco,Groceries
+2022-10-22,apple services,Expense,14.24,24. Apple Services - Technology,apple services,Technology
+2022-10-22,gym membership,Expense,2141.5,21. Gym Membership - Fitness,gym membership,Fitness
+2022-10-23,pharmacy,Expense,2295.81,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2022-10-23,salary,Expense,49.87,19. Salary - Income,salary,Income
+2022-10-23,tesco,Expense,143.11,23. Tesco - Groceries,tesco,Groceries
+2022-10-24,cinema,Expense,1617.64,18. Cinema - Entertainment,cinema,Entertainment
+2022-10-24,taxi utrecht,Expense,120.83,25. Taxi Utrecht - Transportation,taxi utrecht,Transportation
+2022-10-25,blogging,Income,1051.91,26. Blogging - Writing,blogging,Writing
+2022-10-25,supermarket,Expense,1792.97,7. Supermarket - Groceries,supermarket,Groceries
+2022-10-25,gift,Income,2146.49,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-10-28,pet supplies,Expense,1380.38,16. Pet Supplies - Pets,pet supplies,Pets
+2022-10-30,clothing store,Expense,34.17,17. Clothing Store - Fashion,clothing store,Fashion
+2022-10-31,gift,Expense,58.51,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-11-01,salary,Income,2364.03,19. Salary - Income,salary,Income
+2022-11-01,gift,Income,2862.39,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-11-01,pet supplies,Expense,2597.66,16. Pet Supplies - Pets,pet supplies,Pets
+2022-11-02,pet supplies,Expense,1698.05,16. Pet Supplies - Pets,pet supplies,Pets
+2022-11-04,bookstore,Expense,116.2,12. Bookstore - Books,bookstore,Books
+2022-11-08,electronics,Expense,2894.08,5. Electronics - Technology,electronics,Technology
+2022-11-13,bookstore,Expense,182.09,12. Bookstore - Books,bookstore,Books
+2022-11-15,salary,Income,1817.95,19. Salary - Income,salary,Income
+2022-11-16,freelance work,Expense,51.74,20. Freelance Work - Work,freelance work,Work
+2022-11-18,bookstore,Expense,122.93,12. Bookstore - Books,bookstore,Books
+2022-11-18,gym membership,Expense,2828.19,21. Gym Membership - Fitness,gym membership,Fitness
+2022-11-19,tikkie,Expense,90.09,27. Tikkie - Finance,tikkie,Finance
+2022-11-19,salary,Income,2372.13,19. Salary - Income,salary,Income
+2022-11-21,electronics,Expense,1278.88,5. Electronics - Technology,electronics,Technology
+2022-11-21,online shopping,Expense,123.45,13. Online Shopping - Retail,online shopping,Retail
+2022-11-23,freelance work,Expense,100.17,20. Freelance Work - Work,freelance work,Work
+2022-11-24,freelancing,Income,1808.72,28. Freelancing - Work,freelancing,Work
+2022-11-25,tesco,Expense,101.0,23. Tesco - Groceries,tesco,Groceries
+2022-11-26,salary,Income,1868.98,19. Salary - Income,salary,Income
+2022-11-26,bouldermuur bv,Expense,85.71,29. Bouldermuur Bv - Business,bouldermuur bv,Business
+2022-11-26,birtat restaurant,Expense,169.8,30. Birtat Restaurant - Food & Beverage,birtat restaurant,Food and Drinks
+2022-11-28,public transport,Expense,106.63,8. Public Transport - Travel,public transport,Travel
+2022-11-28,freelance work,Expense,110.53,20. Freelance Work - Work,freelance work,Work
+2022-12-02,utility bill,Expense,1199.43,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-12-03,bookstore,Expense,1370.44,12. Bookstore - Books,bookstore,Books
+2022-12-05,rent,Expense,22.23,6. Rent - Housing,rent,Housing
+2022-12-08,coffee shop,Expense,2749.69,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2022-12-09,gift,Expense,129.9,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-12-09,cinema,Expense,108.43,18. Cinema - Entertainment,cinema,Entertainment
+2022-12-11,public transport,Expense,2122.92,8. Public Transport - Travel,public transport,Travel
+2022-12-11,cinema,Expense,60.04,18. Cinema - Entertainment,cinema,Entertainment
+2022-12-12,online shopping,Expense,119.73,13. Online Shopping - Retail,online shopping,Retail
+2022-12-13,salary,Expense,134.37,19. Salary - Income,salary,Income
+2022-12-13,gift,Income,1870.7,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-12-15,online shopping,Expense,20.13,13. Online Shopping - Retail,online shopping,Retail
+2022-12-15,utility bill,Expense,156.04,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-12-17,electronics,Expense,2012.56,5. Electronics - Technology,electronics,Technology
+2022-12-17,utility bill,Expense,89.72,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2022-12-20,gift,Expense,39.77,4. Gift - Miscellaneous,gift,Miscellaneous
+2022-12-21,bookstore,Expense,20.49,12. Bookstore - Books,bookstore,Books
+2022-12-21,online shopping,Expense,2057.83,13. Online Shopping - Retail,online shopping,Retail
+2022-12-24,pet supplies,Expense,2443.91,16. Pet Supplies - Pets,pet supplies,Pets
+2022-12-24,restaurant,Expense,179.36,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2022-12-27,electronics,Expense,1532.36,5. Electronics - Technology,electronics,Technology
+2022-12-29,supermarket,Expense,2636.29,7. Supermarket - Groceries,supermarket,Groceries
+2023-01-03,clothing store,Expense,109.01,17. Clothing Store - Fashion,clothing store,Fashion
+2023-01-03,supermarket,Expense,125.47,7. Supermarket - Groceries,supermarket,Groceries
+2023-01-07,public transport,Expense,1245.15,8. Public Transport - Travel,public transport,Travel
+2023-01-07,utility bill,Expense,1416.93,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-01-08,clothing store,Expense,75.27,17. Clothing Store - Fashion,clothing store,Fashion
+2023-01-12,supermarket,Expense,1169.45,7. Supermarket - Groceries,supermarket,Groceries
+2023-01-13,gym membership,Expense,160.01,21. Gym Membership - Fitness,gym membership,Fitness
+2023-01-13,coffee shop,Expense,1308.64,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-01-14,gift,Income,124.01,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-01-18,gym membership,Expense,1243.81,21. Gym Membership - Fitness,gym membership,Fitness
+2023-01-21,freelance work,Income,2904.1,20. Freelance Work - Work,freelance work,Work
+2023-01-21,restaurant,Expense,170.66,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-01-22,public transport,Expense,2785.6,8. Public Transport - Travel,public transport,Travel
+2023-01-24,electronics,Expense,179.65,5. Electronics - Technology,electronics,Technology
+2023-01-25,pet supplies,Income,1061.94,16. Pet Supplies - Pets,pet supplies,Pets
+2023-01-25,restaurant,Expense,2976.08,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-01-27,cinema,Expense,133.01,18. Cinema - Entertainment,cinema,Entertainment
+2023-01-28,electronics,Expense,2048.35,5. Electronics - Technology,electronics,Technology
+2023-01-30,pharmacy,Expense,173.11,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-02-01,pharmacy,Expense,1954.2,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-02-04,online shopping,Expense,1342.93,13. Online Shopping - Retail,online shopping,Retail
+2023-02-04,pet supplies,Expense,181.66,16. Pet Supplies - Pets,pet supplies,Pets
+2023-02-05,gift,Income,1023.34,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-02-06,utility bill,Expense,1061.19,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-02-06,gym membership,Expense,1123.4,21. Gym Membership - Fitness,gym membership,Fitness
+2023-02-07,rent,Expense,1973.16,6. Rent - Housing,rent,Housing
+2023-02-10,coffee shop,Expense,198.66,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-02-10,restaurant,Expense,1227.68,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-02-10,restaurant,Expense,155.53,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-02-11,rent,Expense,174.32,6. Rent - Housing,rent,Housing
+2023-02-11,supermarket,Expense,2001.98,7. Supermarket - Groceries,supermarket,Groceries
+2023-02-13,freelance work,Expense,160.19,20. Freelance Work - Work,freelance work,Work
+2023-02-15,restaurant,Expense,1813.65,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-02-15,supermarket,Expense,71.53,7. Supermarket - Groceries,supermarket,Groceries
+2023-02-16,coffee shop,Expense,35.83,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-02-16,supermarket,Expense,166.63,7. Supermarket - Groceries,supermarket,Groceries
+2023-02-16,pharmacy,Expense,15.31,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-02-17,gym membership,Expense,1440.05,21. Gym Membership - Fitness,gym membership,Fitness
+2023-02-17,gym membership,Expense,2767.04,21. Gym Membership - Fitness,gym membership,Fitness
+2023-02-18,bookstore,Expense,56.93,12. Bookstore - Books,bookstore,Books
+2023-02-18,pet supplies,Expense,2006.15,16. Pet Supplies - Pets,pet supplies,Pets
+2023-02-18,utility bill,Expense,2493.04,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-02-26,gift,Expense,55.56,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-02-28,clothing store,Expense,79.15,17. Clothing Store - Fashion,clothing store,Fashion
+2023-03-02,pet supplies,Expense,121.64,16. Pet Supplies - Pets,pet supplies,Pets
+2023-03-06,rent,Expense,2122.79,6. Rent - Housing,rent,Housing
+2023-03-07,pet supplies,Expense,1371.35,16. Pet Supplies - Pets,pet supplies,Pets
+2023-03-09,public transport,Expense,42.29,8. Public Transport - Travel,public transport,Travel
+2023-03-09,cinema,Expense,84.62,18. Cinema - Entertainment,cinema,Entertainment
+2023-03-12,pet supplies,Expense,166.29,16. Pet Supplies - Pets,pet supplies,Pets
+2023-03-13,pet supplies,Expense,2903.67,16. Pet Supplies - Pets,pet supplies,Pets
+2023-03-15,supermarket,Expense,149.21,7. Supermarket - Groceries,supermarket,Groceries
+2023-03-16,clothing store,Expense,145.58,17. Clothing Store - Fashion,clothing store,Fashion
+2023-03-16,public transport,Expense,124.12,8. Public Transport - Travel,public transport,Travel
+2023-03-16,gift,Expense,112.1,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-03-17,cinema,Expense,91.27,18. Cinema - Entertainment,cinema,Entertainment
+2023-03-17,salary,Income,2822.59,19. Salary - Income,salary,Income
+2023-03-17,gift,Income,2602.06,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-03-18,electronics,Expense,1014.88,5. Electronics - Technology,electronics,Technology
+2023-03-18,salary,Income,1177.48,19. Salary - Income,salary,Income
+2023-03-18,pharmacy,Expense,1094.67,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-03-21,gym membership,Expense,40.55,21. Gym Membership - Fitness,gym membership,Fitness
+2023-03-22,gym membership,Expense,1177.22,21. Gym Membership - Fitness,gym membership,Fitness
+2023-03-22,online shopping,Expense,106.87,13. Online Shopping - Retail,online shopping,Retail
+2023-03-23,public transport,Expense,56.37,8. Public Transport - Travel,public transport,Travel
+2023-03-27,rent,Expense,174.35,6. Rent - Housing,rent,Housing
+2023-03-29,supermarket,Expense,48.17,7. Supermarket - Groceries,supermarket,Groceries
+2023-03-30,pet supplies,Expense,94.22,16. Pet Supplies - Pets,pet supplies,Pets
+2023-03-31,supermarket,Expense,2775.95,7. Supermarket - Groceries,supermarket,Groceries
+2023-04-01,supermarket,Expense,77.59,7. Supermarket - Groceries,supermarket,Groceries
+2023-04-02,restaurant,Expense,1651.97,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-04-02,salary,Expense,165.0,19. Salary - Income,salary,Income
+2023-04-03,bookstore,Expense,2291.23,12. Bookstore - Books,bookstore,Books
+2023-04-04,coffee shop,Expense,134.69,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-04-05,rent,Expense,5.12,6. Rent - Housing,rent,Housing
+2023-04-07,gym membership,Expense,163.0,21. Gym Membership - Fitness,gym membership,Fitness
+2023-04-07,rent,Expense,53.56,6. Rent - Housing,rent,Housing
+2023-04-10,electronics,Expense,132.56,5. Electronics - Technology,electronics,Technology
+2023-04-12,coffee shop,Expense,2458.86,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-04-14,pet supplies,Expense,2655.69,16. Pet Supplies - Pets,pet supplies,Pets
+2023-04-18,gym membership,Expense,193.38,21. Gym Membership - Fitness,gym membership,Fitness
+2023-04-19,gift,Expense,114.5,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-04-20,pharmacy,Expense,1914.53,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-04-22,cinema,Expense,56.55,18. Cinema - Entertainment,cinema,Entertainment
+2023-04-22,clothing store,Expense,31.49,17. Clothing Store - Fashion,clothing store,Fashion
+2023-04-26,restaurant,Expense,2263.7,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-05-06,electronics,Expense,2399.93,5. Electronics - Technology,electronics,Technology
+2023-05-11,pet supplies,Expense,181.25,16. Pet Supplies - Pets,pet supplies,Pets
+2023-05-13,public transport,Expense,2324.37,8. Public Transport - Travel,public transport,Travel
+2023-05-15,gym membership,Expense,196.26,21. Gym Membership - Fitness,gym membership,Fitness
+2023-05-15,public transport,Expense,134.92,8. Public Transport - Travel,public transport,Travel
+2023-05-16,gift,Expense,26.52,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-05-20,salary,Expense,160.8,19. Salary - Income,salary,Income
+2023-05-23,supermarket,Expense,2776.37,7. Supermarket - Groceries,supermarket,Groceries
+2023-05-23,rent,Expense,138.43,6. Rent - Housing,rent,Housing
+2023-05-25,gift,Income,1648.26,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-05-26,pharmacy,Expense,2512.53,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-05-26,bookstore,Expense,159.64,12. Bookstore - Books,bookstore,Books
+2023-05-31,bookstore,Expense,95.97,12. Bookstore - Books,bookstore,Books
+2023-05-31,clothing store,Expense,1169.75,17. Clothing Store - Fashion,clothing store,Fashion
+2023-06-01,pharmacy,Expense,14.71,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-06-01,cinema,Expense,2042.49,18. Cinema - Entertainment,cinema,Entertainment
+2023-06-02,rent,Expense,199.33,6. Rent - Housing,rent,Housing
+2023-06-03,gift,Income,1894.69,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-06-04,electronics,Expense,1187.12,5. Electronics - Technology,electronics,Technology
+2023-06-06,rent,Expense,89.18,6. Rent - Housing,rent,Housing
+2023-06-06,electronics,Expense,82.81,5. Electronics - Technology,electronics,Technology
+2023-06-06,electronics,Expense,1353.12,5. Electronics - Technology,electronics,Technology
+2023-06-12,rent,Expense,52.8,6. Rent - Housing,rent,Housing
+2023-06-12,electronics,Expense,126.88,5. Electronics - Technology,electronics,Technology
+2023-06-13,gym membership,Expense,1995.18,21. Gym Membership - Fitness,gym membership,Fitness
+2023-06-17,coffee shop,Expense,1815.43,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-06-18,utility bill,Expense,110.24,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-06-20,electronics,Expense,110.19,5. Electronics - Technology,electronics,Technology
+2023-06-25,utility bill,Expense,114.61,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-06-27,electronics,Expense,166.2,5. Electronics - Technology,electronics,Technology
+2023-06-27,gym membership,Expense,49.13,21. Gym Membership - Fitness,gym membership,Fitness
+2023-06-28,electronics,Expense,49.77,5. Electronics - Technology,electronics,Technology
+2023-06-30,gift,Income,2971.85,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-07-01,freelance work,Income,1137.99,20. Freelance Work - Work,freelance work,Work
+2023-07-06,utility bill,Expense,19.41,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-07-07,coffee shop,Expense,2534.38,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-07-15,online shopping,Expense,60.17,13. Online Shopping - Retail,online shopping,Retail
+2023-07-16,online shopping,Expense,2984.89,13. Online Shopping - Retail,online shopping,Retail
+2023-07-17,clothing store,Expense,163.57,17. Clothing Store - Fashion,clothing store,Fashion
+2023-07-18,electronics,Expense,117.69,5. Electronics - Technology,electronics,Technology
+2023-07-18,utility bill,Expense,20.76,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-07-19,bookstore,Expense,2258.08,12. Bookstore - Books,bookstore,Books
+2023-07-19,gym membership,Expense,56.94,21. Gym Membership - Fitness,gym membership,Fitness
+2023-07-21,cinema,Expense,77.06,18. Cinema - Entertainment,cinema,Entertainment
+2023-07-23,restaurant,Expense,69.87,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-07-23,online shopping,Expense,2124.6,13. Online Shopping - Retail,online shopping,Retail
+2023-07-24,utility bill,Expense,2091.31,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-07-24,rent,Income,1006.79,6. Rent - Housing,rent,Housing
+2023-07-25,gym membership,Expense,2411.74,21. Gym Membership - Fitness,gym membership,Fitness
+2023-07-25,online shopping,Expense,1045.27,13. Online Shopping - Retail,online shopping,Retail
+2023-07-26,pet supplies,Expense,2394.05,16. Pet Supplies - Pets,pet supplies,Pets
+2023-07-27,clothing store,Expense,2381.87,17. Clothing Store - Fashion,clothing store,Fashion
+2023-07-29,electronics,Expense,1191.57,5. Electronics - Technology,electronics,Technology
+2023-07-29,cinema,Expense,2981.34,18. Cinema - Entertainment,cinema,Entertainment
+2023-08-04,bookstore,Expense,1982.24,12. Bookstore - Books,bookstore,Books
+2023-08-06,coffee shop,Expense,120.05,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-08-07,salary,Expense,177.58,19. Salary - Income,salary,Income
+2023-08-08,pet supplies,Expense,156.99,16. Pet Supplies - Pets,pet supplies,Pets
+2023-08-08,coffee shop,Expense,68.31,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-08-10,pet supplies,Expense,99.91,16. Pet Supplies - Pets,pet supplies,Pets
+2023-08-11,public transport,Expense,1848.31,8. Public Transport - Travel,public transport,Travel
+2023-08-12,pharmacy,Expense,2617.3,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-08-14,clothing store,Expense,2360.51,17. Clothing Store - Fashion,clothing store,Fashion
+2023-08-16,cinema,Expense,1423.77,18. Cinema - Entertainment,cinema,Entertainment
+2023-08-17,pet supplies,Expense,1820.0,16. Pet Supplies - Pets,pet supplies,Pets
+2023-08-17,gift,Expense,21.26,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-08-23,bookstore,Expense,2450.84,12. Bookstore - Books,bookstore,Books
+2023-08-23,pet supplies,Expense,31.22,16. Pet Supplies - Pets,pet supplies,Pets
+2023-08-24,clothing store,Expense,1555.71,17. Clothing Store - Fashion,clothing store,Fashion
+2023-08-24,rent,Expense,1035.4,6. Rent - Housing,rent,Housing
+2023-08-28,gym membership,Expense,165.82,21. Gym Membership - Fitness,gym membership,Fitness
+2023-08-28,gym membership,Expense,80.72,21. Gym Membership - Fitness,gym membership,Fitness
+2023-08-29,pharmacy,Expense,144.88,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-08-31,pet supplies,Expense,1575.3,16. Pet Supplies - Pets,pet supplies,Pets
+2023-09-01,rent,Expense,162.7,6. Rent - Housing,rent,Housing
+2023-09-01,rent,Expense,2192.38,6. Rent - Housing,rent,Housing
+2023-09-02,salary,Income,2106.92,19. Salary - Income,salary,Income
+2023-09-04,gym membership,Expense,167.52,21. Gym Membership - Fitness,gym membership,Fitness
+2023-09-04,coffee shop,Expense,114.66,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-09-05,clothing store,Expense,107.14,17. Clothing Store - Fashion,clothing store,Fashion
+2023-09-06,salary,Expense,82.47,19. Salary - Income,salary,Income
+2023-09-08,freelance work,Expense,5.09,20. Freelance Work - Work,freelance work,Work
+2023-09-09,salary,Expense,181.03,19. Salary - Income,salary,Income
+2023-09-10,salary,Expense,40.48,19. Salary - Income,salary,Income
+2023-09-11,utility bill,Expense,1845.52,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-09-11,freelance work,Income,2890.88,20. Freelance Work - Work,freelance work,Work
+2023-09-13,rent,Expense,173.24,6. Rent - Housing,rent,Housing
+2023-09-14,pharmacy,Expense,1125.39,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-09-15,public transport,Expense,82.92,8. Public Transport - Travel,public transport,Travel
+2023-09-17,online shopping,Expense,1902.01,13. Online Shopping - Retail,online shopping,Retail
+2023-09-17,pet supplies,Expense,39.02,16. Pet Supplies - Pets,pet supplies,Pets
+2023-09-18,cinema,Expense,192.21,18. Cinema - Entertainment,cinema,Entertainment
+2023-09-18,rent,Expense,19.92,6. Rent - Housing,rent,Housing
+2023-09-19,salary,Expense,1345.15,19. Salary - Income,salary,Income
+2023-09-21,salary,Expense,141.8,19. Salary - Income,salary,Income
+2023-09-21,rent,Expense,102.55,6. Rent - Housing,rent,Housing
+2023-09-22,coffee shop,Expense,1150.8,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-09-23,supermarket,Expense,24.29,7. Supermarket - Groceries,supermarket,Groceries
+2023-09-26,rent,Expense,178.33,6. Rent - Housing,rent,Housing
+2023-09-29,coffee shop,Expense,1421.93,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-09-29,freelance work,Expense,168.92,20. Freelance Work - Work,freelance work,Work
+2023-10-02,rent,Expense,32.55,6. Rent - Housing,rent,Housing
+2023-10-02,gym membership,Expense,2064.13,21. Gym Membership - Fitness,gym membership,Fitness
+2023-10-02,pet supplies,Expense,2141.04,16. Pet Supplies - Pets,pet supplies,Pets
+2023-10-02,salary,Income,2975.84,19. Salary - Income,salary,Income
+2023-10-03,utility bill,Expense,198.36,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-10-12,coffee shop,Expense,2136.33,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-10-13,pet supplies,Expense,2369.72,16. Pet Supplies - Pets,pet supplies,Pets
+2023-10-15,utility bill,Expense,106.78,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-10-17,salary,Expense,166.36,19. Salary - Income,salary,Income
+2023-10-17,salary,Expense,121.68,19. Salary - Income,salary,Income
+2023-10-17,gift,Income,1128.26,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-10-18,gift,Expense,70.94,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-10-18,coffee shop,Expense,1793.44,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-10-18,salary,Expense,142.23,19. Salary - Income,salary,Income
+2023-10-19,gift,Income,2581.95,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-10-20,rent,Expense,171.78,6. Rent - Housing,rent,Housing
+2023-10-22,restaurant,Expense,34.53,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-10-25,supermarket,Expense,167.04,7. Supermarket - Groceries,supermarket,Groceries
+2023-10-25,bookstore,Expense,48.93,12. Bookstore - Books,bookstore,Books
+2023-10-26,gym membership,Expense,96.09,21. Gym Membership - Fitness,gym membership,Fitness
+2023-10-30,clothing store,Expense,158.15,17. Clothing Store - Fashion,clothing store,Fashion
+2023-11-07,salary,Expense,177.99,19. Salary - Income,salary,Income
+2023-11-07,pharmacy,Expense,183.16,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-11-08,rent,Expense,2102.34,6. Rent - Housing,rent,Housing
+2023-11-09,restaurant,Expense,1375.61,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-11-10,clothing store,Expense,138.64,17. Clothing Store - Fashion,clothing store,Fashion
+2023-11-11,supermarket,Expense,173.18,7. Supermarket - Groceries,supermarket,Groceries
+2023-11-13,gym membership,Expense,1077.77,21. Gym Membership - Fitness,gym membership,Fitness
+2023-11-15,pet supplies,Expense,121.24,16. Pet Supplies - Pets,pet supplies,Pets
+2023-11-15,cinema,Expense,140.32,18. Cinema - Entertainment,cinema,Entertainment
+2023-11-19,pet supplies,Expense,155.91,16. Pet Supplies - Pets,pet supplies,Pets
+2023-11-19,gym membership,Expense,1201.37,21. Gym Membership - Fitness,gym membership,Fitness
+2023-11-20,freelance work,Expense,37.93,20. Freelance Work - Work,freelance work,Work
+2023-11-22,gift,Income,1576.46,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-11-24,gym membership,Expense,131.4,21. Gym Membership - Fitness,gym membership,Fitness
+2023-11-25,electronics,Expense,1210.29,5. Electronics - Technology,electronics,Technology
+2023-11-25,online shopping,Expense,1761.22,13. Online Shopping - Retail,online shopping,Retail
+2023-11-28,electronics,Expense,42.53,5. Electronics - Technology,electronics,Technology
+2023-11-29,pharmacy,Expense,1297.94,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-12-01,clothing store,Expense,2755.39,17. Clothing Store - Fashion,clothing store,Fashion
+2023-12-02,coffee shop,Expense,2292.19,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-12-05,pet supplies,Expense,37.6,16. Pet Supplies - Pets,pet supplies,Pets
+2023-12-08,utility bill,Expense,159.0,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-12-09,cinema,Expense,1880.43,18. Cinema - Entertainment,cinema,Entertainment
+2023-12-10,restaurant,Expense,44.42,22. Restaurant - Food & Beverage,restaurant,Food and Drinks
+2023-12-12,clothing store,Expense,74.75,17. Clothing Store - Fashion,clothing store,Fashion
+2023-12-13,gift,Income,1024.89,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-12-14,salary,Income,2508.5,19. Salary - Income,salary,Income
+2023-12-14,cinema,Expense,37.97,18. Cinema - Entertainment,cinema,Entertainment
+2023-12-15,coffee shop,Expense,194.9,14. Coffee Shop - Food & Beverage,coffee shop,Food and Drinks
+2023-12-16,cinema,Income,2708.54,18. Cinema - Entertainment,cinema,Entertainment
+2023-12-18,electronics,Expense,17.88,5. Electronics - Technology,electronics,Technology
+2023-12-18,tesco,Expense,132.02,23. Tesco - Groceries,tesco,Groceries
+2023-12-18,beta boulders ams,Expense,16.16,31. Beta Boulders Ams - Sports & Fitness,beta boulders ams,Sport and Fitness
+2023-12-18,etos,Expense,196.05,32. Etos - Groceries,etos,Groceries
+2023-12-18,utility bill,Expense,198.97,15. Utility Bill - Bills & Utilities,utility bill,Bills & Utilities
+2023-12-19,tls bv inz ov-chipkaart,Expense,141.58,1. Tls Bv Inz Ov-Chipkaart - Payment,tls bv inz ov-chipkaart,Payment
+2023-12-20,supermarket,Income,2945.46,7. Supermarket - Groceries,supermarket,Groceries
+2023-12-20,consulting,Income,2250.89,2. Consulting - Business,consulting,Business
+2023-12-21,freelance work,Expense,163.53,20. Freelance Work - Work,freelance work,Work
+2023-12-21,electronics,Expense,182.68,5. Electronics - Technology,electronics,Technology
+2023-12-22,aidsfonds,Expense,62.76,3. Aidsfonds - Charity,aidsfonds,Charity
+2023-12-22,consulting,Income,1014.54,2. Consulting - Business,consulting,Business
+2023-12-22,gift,Expense,193.04,4. Gift - Miscellaneous,gift,Miscellaneous
+2023-12-23,tk maxx  da,Expense,60.26,,,
+2023-12-23,pharmacy,Expense,141.43,3. Pharmacy - Personal Care,pharmacy,Personal Care
+2023-12-24,salary,Income,1274.8,19. Salary - Income,salary,Income
+2023-12-28,bookstore,Expense,52.07,12. Bookstore - Books,bookstore,Books
+2023-12-29,rent,Expense,10.34,6. Rent - Housing,rent,Housing
+2023-12-29,spotify ab by adyen,Expense,142.89,1. Spotify AB by Adyen - Entertainment,spotify ab by adyen,Entertainment
+2023-12-29,spotify ab by adyen,Expense,142.89,5. Spotify Ab By Adyen - Entertainment,spotify ab by adyen,Entertainment
+2023-12-29,selling paintings,Income,1145.77,6. Selling Paintings - Personal,selling paintings,Personal
+2023-12-30,public transport,Expense,40.31,8. Public Transport - Travel,public transport,Travel
+2023-12-30,vishandel sier,Expense,16.79,7. Vishandel Sier - Transportation,vishandel sier,Transportation
+2023-12-30,monthly appartment rent,Expense,191.18,8. Monthly Appartment Rent - Housing,monthly appartment rent,Housing
+2023-12-30,tesco,Expense,89.6,23. Tesco - Groceries,tesco,Groceries
+2023-12-30,belastingdienst,Expense,92.94,9. Belastingdienst - Government,belastingdienst,Government

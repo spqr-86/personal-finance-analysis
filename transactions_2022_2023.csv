@@ -1,0 +1,529 @@
+Date;Name / Description;Expense/Income;Amount (EUR)
+2022-01-01;Pharmacy;Expense;45.64
+2022-01-02;Gift;Income;1409.07
+2022-01-03;Electronics;Expense;57.54
+2022-01-05;Rent;Income;1117.5
+2022-01-07;Supermarket;Expense;1885.56
+2022-01-07;Public Transport;Expense;117.84
+2022-01-08;Public Transport;Expense;1148.68
+2022-01-08;Public Transport;Expense;42.86
+2022-01-11;Pharmacy;Expense;2532.41
+2022-01-14;Audible Uk AdblCo/Pymt Gbr;Expense;166.0
+2022-01-15;Classpass* Monthly;Expense;89.47
+2022-01-16;Amazon Lux;Expense;70.05
+2022-01-18;Bookstore;Expense;1425.75
+2022-01-22;Online Shopping;Expense;51.73
+2022-01-22;Public Transport;Expense;1977.3
+2022-01-24;Coffee Shop;Expense;1588.72
+2022-01-26;Coffee Shop;Expense;2927.34
+2022-01-30;Gift;Expense;79.98
+2022-01-30;Utility Bill;Expense;196.08
+2022-02-01;Coffee Shop;Expense;87.58
+2022-02-04;Bookstore;Expense;174.79
+2022-02-05;Pharmacy;Expense;2041.68
+2022-02-06;Pet Supplies;Expense;1519.44
+2022-02-08;Coffee Shop;Expense;1859.39
+2022-02-09;Public Transport;Expense;101.63
+2022-02-10;Online Shopping;Expense;179.86
+2022-02-10;Online Shopping;Expense;27.15
+2022-02-11;Clothing Store;Expense;71.6
+2022-02-13;Utility Bill;Expense;60.64
+2022-02-15;Electronics;Expense;181.62
+2022-02-17;Rent;Expense;1117.5
+2022-02-17;Online Shopping;Expense;1938.94
+2022-02-18;Cinema;Expense;165.54
+2022-02-18;Clothing Store;Expense;2993.34
+2022-02-20;Utility Bill;Expense;2703.81
+2022-02-21;Salary;Income;1222.51
+2022-02-23;Freelance Work;Expense;51.22
+2022-02-24;Online Shopping;Expense;126.98
+2022-02-25;Gym Membership;Expense;39.75
+2022-02-27;Electronics;Expense;1991.1
+2022-02-28;Pet Supplies;Expense;31.11
+2022-02-28;Coffee Shop;Expense;137.58
+2022-02-28;Gift;Income;2178.94
+2022-03-02;Coffee Shop;Expense;1645.66
+2022-03-03;Cinema;Expense;172.93
+2022-03-04;Coffee Shop;Expense;2115.77
+2022-03-04;Cinema;Expense;29.68
+2022-03-05;Pharmacy;Expense;1255.94
+2022-03-10;Pharmacy;Expense;2911.38
+2022-03-11;Utility Bill;Expense;1598.17
+2022-03-11;Gym Membership;Expense;2456.66
+2022-03-13;Gym Membership;Expense;1297.7
+2022-03-13;Electronics;Expense;54.98
+2022-03-15;Online Shopping;Expense;151.18
+2022-03-16;Pet Supplies;Expense;15.97
+2022-03-17;Cinema;Expense;88.3
+2022-03-17;Gym Membership;Expense;28.18
+2022-03-18;Rent;Expense;188.9
+2022-03-19;Coffee Shop;Expense;90.39
+2022-03-20;Rent;Expense;105.18
+2022-03-23;Rent;Expense;168.96
+2022-03-26;Utility Bill;Expense;2126.01
+2022-03-27;Pharmacy;Expense;98.11
+2022-03-30;Utility Bill;Expense;2249.22
+2022-04-04;Public Transport;Expense;6.1
+2022-04-04;Electronics;Expense;2748.3
+2022-04-04;Pet Supplies;Expense;2863.65
+2022-04-05;Gym Membership;Expense;1528.43
+2022-04-09;Utility Bill;Expense;94.27
+2022-04-11;Salary;Expense;112.03
+2022-04-13;Pharmacy;Expense;2767.06
+2022-04-13;Gift;Expense;194.65
+2022-04-17;Clothing Store;Expense;64.9
+2022-04-17;Rent;Expense;1131.63
+2022-04-21;Restaurant;Expense;71.81
+2022-04-21;Pet Supplies;Expense;74.76
+2022-04-25;Utility Bill;Expense;2367.16
+2022-04-29;Public Transport;Expense;102.96
+2022-04-29;Public Transport;Expense;196.71
+2022-04-30;Utility Bill;Expense;1393.45
+2022-05-01;Restaurant;Expense;168.36
+2022-05-02;Utility Bill;Expense;63.72
+2022-05-04;Rent;Expense;2909.71
+2022-05-04;Electronics;Expense;30.19
+2022-05-04;Rent;Expense;1749.47
+2022-05-05;Rent;Expense;130.23
+2022-05-05;Gift;Income;1158.48
+2022-05-10;Freelance Work;Expense;113.86
+2022-05-13;Rent;Expense;2577.38
+2022-05-13;Gym Membership;Expense;127.17
+2022-05-15;Pet Supplies;Expense;123.36
+2022-05-16;Restaurant;Expense;30.37
+2022-05-20;Gym Membership;Expense;1315.56
+2022-05-21;Gym Membership;Expense;70.14
+2022-05-26;Public Transport;Expense;1596.76
+2022-05-26;Public Transport;Expense;10.49
+2022-05-27;Rent;Expense;121.4
+2022-05-30;Cinema;Expense;2047.02
+2022-05-30;Clothing Store;Expense;2413.12
+2022-06-02;Coffee Shop;Expense;193.4
+2022-06-03;Freelance Work;Expense;2881.08
+2022-06-03;Bookstore;Expense;31.11
+2022-06-04;Pet Supplies;Expense;117.88
+2022-06-04;Supermarket;Expense;2512.43
+2022-06-05;Pharmacy;Expense;149.07
+2022-06-06;Salary;Income;1838.22
+2022-06-06;Bookstore;Expense;2532.01
+2022-06-07;Pet Supplies;Expense;151.82
+2022-06-08;Restaurant;Expense;1374.49
+2022-06-08;Cinema;Expense;2527.77
+2022-06-10;Gift;Income;1824.84
+2022-06-12;Rent;Expense;93.3
+2022-06-12;Gift;Income;2037.89
+2022-06-12;Freelance Work;Income;1826.84
+2022-06-13;Supermarket;Expense;2231.93
+2022-06-19;Online Shopping;Expense;146.89
+2022-06-19;Pet Supplies;Expense;197.68
+2022-06-20;Gift;Expense;100.02
+2022-06-21;Electronics;Expense;142.1
+2022-06-23;Gym Membership;Expense;81.85
+2022-06-24;Bookstore;Expense;2650.81
+2022-06-27;Freelance Work;Income;1080.44
+2022-06-27;Public Transport;Expense;1168.67
+2022-06-28;Cinema;Expense;8.63
+2022-06-30;Bookstore;Income;1580.44
+2022-07-03;Coffee Shop;Expense;181.15
+2022-07-05;Freelance Work;Income;1579.09
+2022-07-07;Restaurant;Expense;2066.7
+2022-07-10;Gift;Income;2644.55
+2022-07-11;Rent;Expense;101.64
+2022-07-12;Gift;Income;2973.65
+2022-07-13;Freelance Work;Expense;179.84
+2022-07-14;Bookstore;Expense;2086.34
+2022-07-14;Gift;Expense;173.18
+2022-07-19;Clothing Store;Expense;70.43
+2022-07-21;Public Transport;Expense;148.95
+2022-07-21;Gym Membership;Expense;2160.31
+2022-07-22;Cinema;Expense;151.41
+2022-07-25;Utility Bill;Expense;1013.52
+2022-07-27;Gift;Expense;149.86
+2022-07-29;Coffee Shop;Expense;2650.55
+2022-07-30;Coffee Shop;Expense;155.02
+2022-08-01;Rent;Expense;1444.26
+2022-08-04;Bookstore;Expense;2194.18
+2022-08-05;Public Transport;Expense;169.01
+2022-08-05;Bookstore;Expense;2603.79
+2022-08-06;Salary;Expense;167.47
+2022-08-06;Rent;Expense;2123.22
+2022-08-07;Freelance Work;Income;1335.88
+2022-08-07;Supermarket;Expense;180.82
+2022-08-10;Gift;Expense;187.26
+2022-08-12;Gym Membership;Expense;95.17
+2022-08-13;Online Shopping;Expense;2041.03
+2022-08-15;Gift;Expense;78.01
+2022-08-16;Rent;Expense;72.52
+2022-08-17;Public Transport;Expense;2026.51
+2022-08-17;Coffee Shop;Expense;83.88
+2022-08-18;Pharmacy;Expense;1747.57
+2022-08-20;Gym Membership;Expense;35.09
+2022-08-21;Utility Bill;Expense;1093.35
+2022-08-21;Pharmacy;Expense;28.9
+2022-08-22;Pet Supplies;Expense;2023.43
+2022-08-23;Restaurant;Expense;2964.62
+2022-08-24;Pet Supplies;Expense;174.59
+2022-08-26;Supermarket;Expense;90.96
+2022-08-27;Supermarket;Expense;1457.23
+2022-08-27;Pet Supplies;Expense;176.33
+2022-08-27;Electronics;Expense;120.28
+2022-08-29;Freelance Work;Expense;50.54
+2022-08-30;Bookstore;Expense;109.58
+2022-09-01;Restaurant;Expense;1533.53
+2022-09-02;Restaurant;Expense;1912.49
+2022-09-05;Online Shopping;Expense;1293.81
+2022-09-08;Cinema;Expense;102.66
+2022-09-08;Rent;Expense;181.59
+2022-09-08;Gift;Income;1409.93
+2022-09-12;Rent;Expense;118.4
+2022-09-17;Bookstore;Expense;101.92
+2022-09-17;Restaurant;Expense;2309.14
+2022-09-18;Pharmacy;Expense;162.26
+2022-09-23;Salary;Income;2693.85
+2022-09-23;Utility Bill;Expense;1679.61
+2022-09-24;Freelance Work;Income;1913.72
+2022-09-25;Electronics;Expense;91.05
+2022-09-26;Gift;Income;1004.11
+2022-09-28;Restaurant;Expense;78.26
+2022-09-29;Online Shopping;Expense;2062.78
+2022-09-29;Freelance Work;Income;1287.54
+2022-10-02;Coffee Shop;Expense;29.48
+2022-10-04;Pet Supplies;Expense;93.77
+2022-10-05;Coffee Shop;Expense;1312.34
+2022-10-05;Restaurant;Expense;1608.22
+2022-10-06;Supermarket;Expense;129.48
+2022-10-07;Coffee Shop;Expense;111.74
+2022-10-08;Pharmacy;Expense;2206.61
+2022-10-08;Freelance Work;Expense;25.33
+2022-10-11;Rent;Expense;2120.94
+2022-10-11;Electronics;Expense;129.15
+2022-10-13;Restaurant;Expense;121.11
+2022-10-14;Clothing Store;Expense;100.9
+2022-10-15;Rent;Expense;2224.57
+2022-10-16;Supermarket;Expense;49.69
+2022-10-17;Utility Bill;Expense;184.79
+2022-10-17;Bookstore;Expense;1568.03
+2022-10-18;Rent;Expense;2147.31
+2022-10-21;Supermarket;Expense;179.61
+2022-10-21;Tesco;Expense;38.35
+2022-10-22;Apple Services;Expense;14.24
+2022-10-22;Gym Membership;Expense;2141.5
+2022-10-23;Pharmacy;Expense;2295.81
+2022-10-23;Salary;Expense;49.87
+2022-10-23;Tesco;Expense;143.11
+2022-10-24;Cinema;Expense;1617.64
+2022-10-24;Taxi Utrecht;Expense;120.83
+2022-10-25;Blogging;Income;1051.91
+2022-10-25;Supermarket;Expense;1792.97
+2022-10-25;Gift;Income;2146.49
+2022-10-28;Pet Supplies;Expense;1380.38
+2022-10-30;Clothing Store;Expense;34.17
+2022-10-31;Gift;Expense;58.51
+2022-11-01;Salary;Income;2364.03
+2022-11-01;Gift;Income;2862.39
+2022-11-01;Pet Supplies;Expense;2597.66
+2022-11-02;Pet Supplies;Expense;1698.05
+2022-11-04;Bookstore;Expense;116.2
+2022-11-08;Electronics;Expense;2894.08
+2022-11-13;Bookstore;Expense;182.09
+2022-11-15;Salary;Income;1817.95
+2022-11-16;Freelance Work;Expense;51.74
+2022-11-18;Bookstore;Expense;122.93
+2022-11-18;Gym Membership;Expense;2828.19
+2022-11-19;Tikkie;Expense;90.09
+2022-11-19;Salary;Income;2372.13
+2022-11-21;Electronics;Expense;1278.88
+2022-11-21;Online Shopping;Expense;123.45
+2022-11-23;Freelance Work;Expense;100.17
+2022-11-24;Freelancing;Income;1808.72
+2022-11-25;Tesco;Expense;101.0
+2022-11-26;Salary;Income;1868.98
+2022-11-26;Bouldermuur Bv;Expense;85.71
+2022-11-26;Birtat Restaurant;Expense;169.8
+2022-11-28;Public Transport;Expense;106.63
+2022-11-28;Freelance Work;Expense;110.53
+2022-12-02;Utility Bill;Expense;1199.43
+2022-12-03;Bookstore;Expense;1370.44
+2022-12-05;Rent;Expense;22.23
+2022-12-08;Coffee Shop;Expense;2749.69
+2022-12-09;Gift;Expense;129.9
+2022-12-09;Cinema;Expense;108.43
+2022-12-11;Public Transport;Expense;2122.92
+2022-12-11;Cinema;Expense;60.04
+2022-12-12;Online Shopping;Expense;119.73
+2022-12-13;Salary;Expense;134.37
+2022-12-13;Gift;Income;1870.7
+2022-12-15;Online Shopping;Expense;20.13
+2022-12-15;Utility Bill;Expense;156.04
+2022-12-17;Electronics;Expense;2012.56
+2022-12-17;Utility Bill;Expense;89.72
+2022-12-20;Gift;Expense;39.77
+2022-12-21;Bookstore;Expense;20.49
+2022-12-21;Online Shopping;Expense;2057.83
+2022-12-24;Pet Supplies;Expense;2443.91
+2022-12-24;Restaurant;Expense;179.36
+2022-12-27;Electronics;Expense;1532.36
+2022-12-29;Supermarket;Expense;2636.29
+2023-01-03;Clothing Store;Expense;109.01
+2023-01-03;Supermarket;Expense;125.47
+2023-01-07;Public Transport;Expense;1245.15
+2023-01-07;Utility Bill;Expense;1416.93
+2023-01-08;Clothing Store;Expense;75.27
+2023-01-12;Supermarket;Expense;1169.45
+2023-01-13;Gym Membership;Expense;160.01
+2023-01-13;Coffee Shop;Expense;1308.64
+2023-01-14;Gift;Income;124.01
+2023-01-18;Gym Membership;Expense;1243.81
+2023-01-21;Freelance Work;Income;2904.1
+2023-01-21;Restaurant;Expense;170.66
+2023-01-22;Public Transport;Expense;2785.6
+2023-01-24;Electronics;Expense;179.65
+2023-01-25;Pet Supplies;Income;1061.94
+2023-01-25;Restaurant;Expense;2976.08
+2023-01-27;Cinema;Expense;133.01
+2023-01-28;Electronics;Expense;2048.35
+2023-01-30;Pharmacy;Expense;173.11
+2023-02-01;Pharmacy;Expense;1954.2
+2023-02-04;Online Shopping;Expense;1342.93
+2023-02-04;Pet Supplies;Expense;181.66
+2023-02-05;Gift;Income;1023.34
+2023-02-06;Utility Bill;Expense;1061.19
+2023-02-06;Gym Membership;Expense;1123.4
+2023-02-07;Rent;Expense;1973.16
+2023-02-10;Coffee Shop;Expense;198.66
+2023-02-10;Restaurant;Expense;1227.68
+2023-02-10;Restaurant;Expense;155.53
+2023-02-11;Rent;Expense;174.32
+2023-02-11;Supermarket;Expense;2001.98
+2023-02-13;Freelance Work;Expense;160.19
+2023-02-15;Restaurant;Expense;1813.65
+2023-02-15;Supermarket;Expense;71.53
+2023-02-16;Coffee Shop;Expense;35.83
+2023-02-16;Supermarket;Expense;166.63
+2023-02-16;Pharmacy;Expense;15.31
+2023-02-17;Gym Membership;Expense;1440.05
+2023-02-17;Gym Membership;Expense;2767.04
+2023-02-18;Bookstore;Expense;56.93
+2023-02-18;Pet Supplies;Expense;2006.15
+2023-02-18;Utility Bill;Expense;2493.04
+2023-02-26;Gift;Expense;55.56
+2023-02-28;Clothing Store;Expense;79.15
+2023-03-02;Pet Supplies;Expense;121.64
+2023-03-06;Rent;Expense;2122.79
+2023-03-07;Pet Supplies;Expense;1371.35
+2023-03-09;Public Transport;Expense;42.29
+2023-03-09;Cinema;Expense;84.62
+2023-03-12;Pet Supplies;Expense;166.29
+2023-03-13;Pet Supplies;Expense;2903.67
+2023-03-15;Supermarket;Expense;149.21
+2023-03-16;Clothing Store;Expense;145.58
+2023-03-16;Public Transport;Expense;124.12
+2023-03-16;Gift;Expense;112.1
+2023-03-17;Cinema;Expense;91.27
+2023-03-17;Salary;Income;2822.59
+2023-03-17;Gift;Income;2602.06
+2023-03-18;Electronics;Expense;1014.88
+2023-03-18;Salary;Income;1177.48
+2023-03-18;Pharmacy;Expense;1094.67
+2023-03-21;Gym Membership;Expense;40.55
+2023-03-22;Gym Membership;Expense;1177.22
+2023-03-22;Online Shopping;Expense;106.87
+2023-03-23;Public Transport;Expense;56.37
+2023-03-27;Rent;Expense;174.35
+2023-03-29;Supermarket;Expense;48.17
+2023-03-30;Pet Supplies;Expense;94.22
+2023-03-31;Supermarket;Expense;2775.95
+2023-04-01;Supermarket;Expense;77.59
+2023-04-02;Restaurant;Expense;1651.97
+2023-04-02;Salary;Expense;165.0
+2023-04-03;Bookstore;Expense;2291.23
+2023-04-04;Coffee Shop;Expense;134.69
+2023-04-05;Rent;Expense;5.12
+2023-04-07;Gym Membership;Expense;163.0
+2023-04-07;Rent;Expense;53.56
+2023-04-10;Electronics;Expense;132.56
+2023-04-12;Coffee Shop;Expense;2458.86
+2023-04-14;Pet Supplies;Expense;2655.69
+2023-04-18;Gym Membership;Expense;193.38
+2023-04-19;Gift;Expense;114.5
+2023-04-20;Pharmacy;Expense;1914.53
+2023-04-22;Cinema;Expense;56.55
+2023-04-22;Clothing Store;Expense;31.49
+2023-04-26;Restaurant;Expense;2263.7
+2023-05-06;Electronics;Expense;2399.93
+2023-05-11;Pet Supplies;Expense;181.25
+2023-05-13;Public Transport;Expense;2324.37
+2023-05-15;Gym Membership;Expense;196.26
+2023-05-15;Public Transport;Expense;134.92
+2023-05-16;Gift;Expense;26.52
+2023-05-20;Salary;Expense;160.8
+2023-05-23;Supermarket;Expense;2776.37
+2023-05-23;Rent;Expense;138.43
+2023-05-25;Gift;Income;1648.26
+2023-05-26;Pharmacy;Expense;2512.53
+2023-05-26;Bookstore;Expense;159.64
+2023-05-31;Bookstore;Expense;95.97
+2023-05-31;Clothing Store;Expense;1169.75
+2023-06-01;Pharmacy;Expense;14.71
+2023-06-01;Cinema;Expense;2042.49
+2023-06-02;Rent;Expense;199.33
+2023-06-03;Gift;Income;1894.69
+2023-06-04;Electronics;Expense;1187.12
+2023-06-06;Rent;Expense;89.18
+2023-06-06;Electronics;Expense;82.81
+2023-06-06;Electronics;Expense;1353.12
+2023-06-12;Rent;Expense;52.8
+2023-06-12;Electronics;Expense;126.88
+2023-06-13;Gym Membership;Expense;1995.18
+2023-06-17;Coffee Shop;Expense;1815.43
+2023-06-18;Utility Bill;Expense;110.24
+2023-06-20;Electronics;Expense;110.19
+2023-06-25;Utility Bill;Expense;114.61
+2023-06-27;Electronics;Expense;166.2
+2023-06-27;Gym Membership;Expense;49.13
+2023-06-28;Electronics;Expense;49.77
+2023-06-30;Gift;Income;2971.85
+2023-07-01;Freelance Work;Income;1137.99
+2023-07-06;Utility Bill;Expense;19.41
+2023-07-07;Coffee Shop;Expense;2534.38
+2023-07-15;Online Shopping;Expense;60.17
+2023-07-16;Online Shopping;Expense;2984.89
+2023-07-17;Clothing Store;Expense;163.57
+2023-07-18;Electronics;Expense;117.69
+2023-07-18;Utility Bill;Expense;20.76
+2023-07-19;Bookstore;Expense;2258.08
+2023-07-19;Gym Membership;Expense;56.94
+2023-07-21;Cinema;Expense;77.06
+2023-07-23;Restaurant;Expense;69.87
+2023-07-23;Online Shopping;Expense;2124.6
+2023-07-24;Utility Bill;Expense;2091.31
+2023-07-24;Rent;Income;1006.79
+2023-07-25;Gym Membership;Expense;2411.74
+2023-07-25;Online Shopping;Expense;1045.27
+2023-07-26;Pet Supplies;Expense;2394.05
+2023-07-27;Clothing Store;Expense;2381.87
+2023-07-29;Electronics;Expense;1191.57
+2023-07-29;Cinema;Expense;2981.34
+2023-08-04;Bookstore;Expense;1982.24
+2023-08-06;Coffee Shop;Expense;120.05
+2023-08-07;Salary;Expense;177.58
+2023-08-08;Pet Supplies;Expense;156.99
+2023-08-08;Coffee Shop;Expense;68.31
+2023-08-10;Pet Supplies;Expense;99.91
+2023-08-11;Public Transport;Expense;1848.31
+2023-08-12;Pharmacy;Expense;2617.3
+2023-08-14;Clothing Store;Expense;2360.51
+2023-08-16;Cinema;Expense;1423.77
+2023-08-17;Pet Supplies;Expense;1820.0
+2023-08-17;Gift;Expense;21.26
+2023-08-23;Bookstore;Expense;2450.84
+2023-08-23;Pet Supplies;Expense;31.22
+2023-08-24;Clothing Store;Expense;1555.71
+2023-08-24;Rent;Expense;1035.4
+2023-08-28;Gym Membership;Expense;165.82
+2023-08-28;Gym Membership;Expense;80.72
+2023-08-29;Pharmacy;Expense;144.88
+2023-08-31;Pet Supplies;Expense;1575.3
+2023-09-01;Rent;Expense;162.7
+2023-09-01;Rent;Expense;2192.38
+2023-09-02;Salary;Income;2106.92
+2023-09-04;Gym Membership;Expense;167.52
+2023-09-04;Coffee Shop;Expense;114.66
+2023-09-05;Clothing Store;Expense;107.14
+2023-09-06;Salary;Expense;82.47
+2023-09-08;Freelance Work;Expense;5.09
+2023-09-09;Salary;Expense;181.03
+2023-09-10;Salary;Expense;40.48
+2023-09-11;Utility Bill;Expense;1845.52
+2023-09-11;Freelance Work;Income;2890.88
+2023-09-13;Rent;Expense;173.24
+2023-09-14;Pharmacy;Expense;1125.39
+2023-09-15;Public Transport;Expense;82.92
+2023-09-17;Online Shopping;Expense;1902.01
+2023-09-17;Pet Supplies;Expense;39.02
+2023-09-18;Cinema;Expense;192.21
+2023-09-18;Rent;Expense;19.92
+2023-09-19;Salary;Expense;1345.15
+2023-09-21;Salary;Expense;141.8
+2023-09-21;Rent;Expense;102.55
+2023-09-22;Coffee Shop;Expense;1150.8
+2023-09-23;Supermarket;Expense;24.29
+2023-09-26;Rent;Expense;178.33
+2023-09-29;Coffee Shop;Expense;1421.93
+2023-09-29;Freelance Work;Expense;168.92
+2023-10-02;Rent;Expense;32.55
+2023-10-02;Gym Membership;Expense;2064.13
+2023-10-02;Pet Supplies;Expense;2141.04
+2023-10-02;Salary;Income;2975.84
+2023-10-03;Utility Bill;Expense;198.36
+2023-10-12;Coffee Shop;Expense;2136.33
+2023-10-13;Pet Supplies;Expense;2369.72
+2023-10-15;Utility Bill;Expense;106.78
+2023-10-17;Salary;Expense;166.36
+2023-10-17;Salary;Expense;121.68
+2023-10-17;Gift;Income;1128.26
+2023-10-18;Gift;Expense;70.94
+2023-10-18;Coffee Shop;Expense;1793.44
+2023-10-18;Salary;Expense;142.23
+2023-10-19;Gift;Income;2581.95
+2023-10-20;Rent;Expense;171.78
+2023-10-22;Restaurant;Expense;34.53
+2023-10-25;Supermarket;Expense;167.04
+2023-10-25;Bookstore;Expense;48.93
+2023-10-26;Gym Membership;Expense;96.09
+2023-10-30;Clothing Store;Expense;158.15
+2023-11-07;Salary;Expense;177.99
+2023-11-07;Pharmacy;Expense;183.16
+2023-11-08;Rent;Expense;2102.34
+2023-11-09;Restaurant;Expense;1375.61
+2023-11-10;Clothing Store;Expense;138.64
+2023-11-11;Supermarket;Expense;173.18
+2023-11-13;Gym Membership;Expense;1077.77
+2023-11-15;Pet Supplies;Expense;121.24
+2023-11-15;Cinema;Expense;140.32
+2023-11-19;Pet Supplies;Expense;155.91
+2023-11-19;Gym Membership;Expense;1201.37
+2023-11-20;Freelance Work;Expense;37.93
+2023-11-22;Gift;Income;1576.46
+2023-11-24;Gym Membership;Expense;131.4
+2023-11-25;Electronics;Expense;1210.29
+2023-11-25;Online Shopping;Expense;1761.22
+2023-11-28;Electronics;Expense;42.53
+2023-11-29;Pharmacy;Expense;1297.94
+2023-12-01;Clothing Store;Expense;2755.39
+2023-12-02;Coffee Shop;Expense;2292.19
+2023-12-05;Pet Supplies;Expense;37.6
+2023-12-08;Utility Bill;Expense;159.0
+2023-12-09;Cinema;Expense;1880.43
+2023-12-10;Restaurant;Expense;44.42
+2023-12-12;Clothing Store;Expense;74.75
+2023-12-13;Gift;Income;1024.89
+2023-12-14;Salary;Income;2508.5
+2023-12-14;Cinema;Expense;37.97
+2023-12-15;Coffee Shop;Expense;194.9
+2023-12-16;Cinema;Income;2708.54
+2023-12-18;Electronics;Expense;17.88
+2023-12-18;Tesco;Expense;132.02
+2023-12-18;Beta Boulders Ams;Expense;16.16
+2023-12-18;Etos;Expense;196.05
+2023-12-18;Utility Bill;Expense;198.97
+2023-12-19;Tls Bv Inz Ov-Chipkaart;Expense;141.58
+2023-12-20;Supermarket;Income;2945.46
+2023-12-20;Consulting;Income;2250.89
+2023-12-21;Freelance Work;Expense;163.53
+2023-12-21;Electronics;Expense;182.68
+2023-12-22;Aidsfonds;Expense;62.76
+2023-12-22;Consulting;Income;1014.54
+2023-12-22;Gift;Expense;193.04
+2023-12-23;Tk Maxx  Da;Expense;60.26
+2023-12-23;Pharmacy;Expense;141.43
+2023-12-24;Salary;Income;1274.8
+2023-12-28;Bookstore;Expense;52.07
+2023-12-29;Rent;Expense;10.34
+2023-12-29;Spotify Ab By Adyen;Expense;142.89
+2023-12-29;Selling Paintings;Income;1145.77
+2023-12-30;Public Transport;Expense;40.31
+2023-12-30;Vishandel Sier;Expense;16.79
+2023-12-30;Monthly Appartment Rent;Expense;191.18
+2023-12-30;Tesco;Expense;89.6
+2023-12-30;Belastingdienst;Expense;92.94
